@@ -1,1 +1,19 @@
+Project Infinity-X 3.12 (2026-08-10)
 
+Device: POCO X7 Pro (rodin)
+
+Highlights
+• Initial unofficial release
+• Added Xiaomi Mi Camera
+• Added Fenrir support
+• Fixed Xiaomi Parts
+• Improved SELinux policy
+• Updated vendor blobs
+• Updated kernel
+• August 2026 security patch
+
+Known Issues
+• None
+
+SHA-256
+53f6c886d17952e976595cb2d74536e0955e33caa0cc806378b4a01afd44f2e3
