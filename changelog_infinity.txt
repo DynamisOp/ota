@@ -4,11 +4,10 @@ Device: POCO X7 Pro (rodin)
 
 Highlights
 • Added Xiaomi Mi Camera
-• Added Fenrir support
-• Fixed Xiaomi Parts
+• Tuned Powerhint for performance
+• Added New Things in Xiaomi Parts
 • Improved SELinux policy
 • Updated vendor blobs
-• Updated kernel
 • August 2026 security patch
 
 Known Issues
